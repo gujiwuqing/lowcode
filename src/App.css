@@ -1,0 +1,19 @@
+.App {
+  display: flex;
+}
+
+.container{
+  flex: 1;
+}
+
+.material{
+  width: 200px;
+  background-color: #fff;
+  height: 100%
+}
+
+.options{
+  w300px: 100%;
+  background-color: #fff;
+  height: 100%
+}
